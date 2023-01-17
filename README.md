@@ -229,6 +229,3 @@ To create your own custom Adaptive Card, you can use the [Button and Card Design
 
 <img width="612" alt="image" src="https://user-images.githubusercontent.com/28600326/212558994-4c9a1b6c-2a8a-45ed-840f-0a4fa8860467.png">
 
- 
-
-Here is the result! I hope it helps!
